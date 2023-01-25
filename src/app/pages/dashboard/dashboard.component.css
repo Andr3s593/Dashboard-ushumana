@@ -1,0 +1,36 @@
+.circulo{
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;    
+    background: #003049 ;
+    margin: auto;
+    animation-name: fadeInUp;
+    animation-duration: 1s;
+}
+.circulo2{
+    position: relative;
+    left: 15px;
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;    
+    background: #F77F00 ;
+    margin: auto;
+    animation-name: fadeInUp;
+    animation-duration: 1s;
+}
+.d{
+    width: 10px;
+    height: 50px;
+}
+h1{
+    animation-name: fadeInUp;
+    animation-duration: 1s;
+}
+p{
+    animation-name: fadeInUp;
+    animation-duration: 1s;
+}
+li{
+    animation-name: fadeInUp;
+    animation-duration: 1s;
+}
